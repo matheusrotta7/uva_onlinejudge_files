@@ -1,0 +1,1000 @@
+ 1033  ls
+ 1034  objdump -d Photoshop.exe > photoshop.s
+ 1035  atom photoshop.s
+ 1036  gedit photoshop.s
+ 1037  ls
+ 1038  exit
+ 1039  su
+ 1040  su matheus
+ 1041  exit
+ 1042  cd ../..
+ 1043  ls
+ 1044  cd etc
+ 1045  gedit shadow
+ 1046  sudo gedit shadow
+ 1047  cd
+ 1048  ls
+ 1049  atom
+ 1050  openssl
+ 1051  sudo apt update openssl
+ 1052  sudo apt install openssl
+ 1053  openssl
+ 1054  man openssl
+ 1055  sudo apt-get install openssl
+ 1056  openssl
+ 1057  ls
+ 1058  openssl
+ 1059  ls
+ 1060  echo "ahf3IPhu" > locoloco
+ 1061  openssl
+ 1062  sudo gedit shadow
+ 1063  sudo gedit ../../etc/shadow
+ 1064  gedit locoloco
+ 1065  sudo gedit ../../etc/shadow
+ 1066  gedit locoloco
+ 1067  openssl
+ 1068  rm locoloco
+ 1069  ls
+ 1070  cd ..
+ 1071  ls
+ 1072  cd ..
+ 1073  ls
+ 1074  cd etc
+ 1075  ls
+ 1076  gedit sudoers
+ 1077  cat sudoers
+ 1078  sudo cat sudoers
+ 1079  visudo
+ 1080  sudo visudo
+ 1081  ls
+ 1082  cd crypto
+ 1083  ls
+ 1084  cd ..
+ 1085  ls
+ 1086  xdg-open Downloads/Understanding-Cryptography.pdf 
+ 1087  atom
+ 1088  sudo gedit ../../etc/shadow
+ 1089  gcc test.c -o test
+ 1090  ls
+ 1091  cd Desktop
+ 1092  ls
+ 1093  gcc test.c -o test
+ 1094  gcc test.c -o test -lcrypt
+ 1095  ./test
+ 1096  sudo gedit ../../../etc/shadow
+ 1097  crypt
+ 1098  man crypt
+ 1099  cd Downloads/
+ 1100  ls
+ 1101  xdg-open tk\ from\ ling\ tosite\ sigure\ unravel.mov 
+ 1102  octave
+ 1103  htop
+ 1104  quit
+ 1105  exit
+ 1106  ls
+ 1107  cd Downloads
+ 1108  ls
+ 1109  atom *.flac
+ 1110  cd ..
+ 1111  ls
+ 1112  cd Music
+ 1113  ls
+ 1114  cd ..
+ 1115  cd .cache
+ 1116  ls
+ 1117  cd .fr-3vVHI2/
+ 1118  ls
+ 1119  mv wiretap.flac ../../Documents/personal_projects/
+ 1120  cd
+ 1121  atom Documents/personal_projects/wiretap.flac 
+ 1122  cd Documents/personal_projects/
+ 1123  xxd -b wiretap.flac
+ 1124  xxd -b wiretap.flac > wiretap_new
+ 1125  atom wiretap_new
+ 1126  mv wiretap_new wiretap.bin
+ 1127  xdg-open wiretap.flac
+ 1128  nc perfect-secrecy.ctfcompetition.com 1337
+ 1129  cd Documents/personal_projects/
+ 1130  ls
+ 1131  keytool -printcert -file certificate.pem
+ 1132  keytool -printcert -file key_pub.pem
+ 1133  openssl x509 -in certificate.pem -text
+ 1134  openssl x509 -in key_pub.pem -text
+ 1135  ls
+ 1136  atom key_pub.pem
+ 1137  man nc
+ 1138  nc perfect-secrecy.ctfcompetition.com 1337
+ 1139  conda info --envs
+ 1140  source activate
+ 1141  conda list
+ 1142  source activate
+ 1143  jupyter-notebook
+ 1144  gnome-session-quit
+ 1145  pkill -n osu
+ 1146  atom Downloads/discord-rpc.dll 
+ 1147  ls
+ 1148  ls -a
+ 1149  cd .PlayOnLinux/
+ 1150  ls
+ 1151  cd ..
+ 1152  ls
+ 1153  cd PlayOnLinux\'s\ virtual\ drives
+ 1154  ls
+ 1155  cd osu
+ 1156  ls
+ 1157  cd drive_c
+ 1158  ls
+ 1159  cd Program\ Files/
+ 1160  los
+ 1161  ls
+ 1162  cd ..
+ 1163  cd
+ 1164  cd ..
+ 1165  cd
+ 1166  cd PlayOnLinux\'s\ virtual\ drives
+ 1167  ls
+ 1168  rm -r osu
+ 1169  ls
+ 1170  os
+ 1171  version
+ 1172  info
+ 1173  sysinfo
+ 1174  systeminfo
+ 1175  lsbrelease -a
+ 1176  lsb_release -a
+ 1177  sudo add-apt-repository ppa:noobslab/apps
+ 1178  sudo apt-get update
+ 1179  sudo apt-get install playonlinux
+ 1180  playonlinux
+ 1181  source activate root
+ 1182  playonlinux
+ 1183  source deactivate
+ 1184  pip install python
+ 1185  sudo add-apt-repository ppa:ubuntu-wine/ppa
+ 1186  wget https://dl.winehq.org/wine-builds/Release.key
+ 1187  sudo apt-get update
+ 1188  sudo apt-get install wine
+ 1189  winetricks dotnet20
+ 1190  ls Downloads
+ 1191  cd Downloads
+ 1192  ls
+ 1193  wine osu\!install.exe 
+ 1194  ls
+ 1195  mkdir desktop_aux
+ 1196  mv Desktop/* desktop_aux/
+ 1197  htop
+ 1198  uva
+ 1199  graph
+ 1200  cd cdjf
+ 1201  ccd graph
+ 1202  cdlskdfjlskdjflskjdflksjflksjdfkjsldfkjsldkfjlskdjflksjdflkjsldfkjlskdjflskdjf
+ 1203  uva
+ 1204  cd graph
+ 1205  g++ uva429.cpp -o bfs
+ 1206  ls
+ 1207  g++ uva429.cpp -o transform
+ 1208  g++ uva429.cpp -o transform -std=c++11
+ 1209  ./tranform < teste.in > teste.out
+ 1210  ./transform < teste.in > teste.out
+ 1211  ./transform < teste.in
+ 1212  g++ uva429.cpp -o transform -std=c++11
+ 1213  ./transform < teste.in
+ 1214  g++ uva429.cpp -o transform -std=c++11 -g
+ 1215  gdb transform
+ 1216  ./transform < teste.in
+ 1217  g++ uva429.cpp -o transform -std=c++11 -g
+ 1218  ./transform < teste.in
+ 1219  gdb transform
+ 1220  g++ uva429.cpp -o transform -std=c++11 -g
+ 1221  ./transform < teste.in
+ 1222  g++ uva429.cpp -o transform -std=c++11 -g
+ 1223  ./transform < teste.in
+ 1224  g++ uva429.cpp -o transform -std=c++11 -g
+ 1225  ./transform < teste.in
+ 1226  gdb transform
+ 1227  g++ uva429.cpp -o transform -std=c++11 -g
+ 1228  gdb transform
+ 1229  g++ uva429.cpp -o transform -std=c++11 -g
+ 1230  gdb transfrom
+ 1231  gdb transform
+ 1232  g++ uva429.cpp -o transform -std=c++11 -g
+ 1233  gdb transform
+ 1234  g++ uva429.cpp -o transform -std=c++11 -g
+ 1235  gdb transform
+ 1236  g++ uva429.cpp -o transform -std=c++11 -g
+ 1237  ./transform < teste.in
+ 1238  gdb transform
+ 1239  g++ uva429.cpp -o transform -std=c++11 -g
+ 1240  ./transform < teste.in
+ 1241  gdb transform
+ 1242  g++ uva429.cpp -o transform -std=c++11 -g
+ 1243  ./transform < teste.in
+ 1244  gdb transform
+ 1245  g++ uva429.cpp -o transform -std=c++11 -g
+ 1246  ./transform < teste.in
+ 1247  gdb transform
+ 1248  g++ uva429.cpp -o transform -std=c++11 -g
+ 1249  ./transform < teste.in
+ 1250  gdb transform
+ 1251  g++ uva429.cpp -o transform -std=c++11 -g
+ 1252  ./transform < teste.in
+ 1253  g++ uva429.cpp -o transform -std=c++11 -g
+ 1254  ./transform < teste.in
+ 1255  g++ uva429.cpp -o transform -std=c++11 -g
+ 1256  ./transform < teste.in
+ 1257  gdb transform
+ 1258  g++ uva429.cpp -o transform -std=c++11 -g
+ 1259  ./transform < teste.in
+ 1260  g++ uva429.cpp -o transform -std=c++11 -g
+ 1261  ./transform < teste.in
+ 1262  g++ uva429.cpp -o transform -std=c++11 -g
+ 1263  ./transform < teste.in
+ 1264  g++ uva429.cpp -o transform -std=c++11 -g
+ 1265  ./transform < teste.in
+ 1266  g++ uva429.cpp -o transform -std=c++11 -g
+ 1267  ./transform < teste.in
+ 1268  g++ uva429.cpp -o transform -std=c++11 -g
+ 1269  ./transform < teste.in
+ 1270  g++ uva429.cpp -o transform -std=c++11 -g
+ 1271  ./transform < teste.in
+ 1272  g++ uva429.cpp -o transform -std=c++11 -g
+ 1273  ./transform < teste.in
+ 1274  g++ uva429.cpp -o transform -std=c++11 -g
+ 1275  ./transform < teste.in
+ 1276  g++ uva429.cpp -o transform -std=c++11 -g
+ 1277  ./transform < teste.in
+ 1278  g++ uva429.cpp -o transform -std=c++11 -g
+ 1279  ./transform < teste.in
+ 1280  g++ uva429.cpp -o transform  -lm -lcrypt -O2 -std=c++11 -pipe -DONLINE_JUDGE
+ 1281  ./transform < teste.in
+ 1282  g++ uva429.cpp -o transform  -lm -lcrypt -O2 -std=c++11 -pipe -DONLINE_JUDGE
+ 1283  ./transform < teste.in
+ 1284  g++ uva429.cpp -o transform  -lm -lcrypt -O2 -std=c++11 -pipe -DONLINE_JUDGE
+ 1285  ./transform < teste.in
+ 1286  g++ uva429.cpp -o transform  -lm -lcrypt -O2 -std=c++11 -pipe -DONLINE_JUDGE
+ 1287  ./transform < teste.in
+ 1288  gdb transform
+ 1289  g++ uva429.cpp -o transform  -lm -lcrypt -O2 -std=c++11 -pipe -DONLINE_JUDGE -g
+ 1290  ./transform < teste.in
+ 1291  gdb transfrom
+ 1292  gdb transform
+ 1293  g++ uva429.cpp -o transform  -lm -lcrypt -O2 -std=c++11 -pipe -DONLINE_JUDGE -g
+ 1294  ./transform < teste.in
+ 1295  valgrind transform
+ 1296  valgrind ./transform < teste.in
+ 1297  sudo apt install valgrind
+ 1298  valgrind ./transform < teste.in
+ 1299  valgrind ./transform < teste.in --leack-check=full
+ 1300  valgrind ./transform < teste.in --leack-check=full -v
+ 1301  gdb transform
+ 1302  burp_suite
+ 1303  atom
+ 1304  uva
+ 1305  cd graph
+ 1306  ls
+ 1307  ./new teste2.in > teste.out
+ 1308  ./new teste2.in 
+ 1309  ./new < teste2.in 
+ 1310  sudo apt install gnome-software-plugin-flatpak
+ 1311  cd Downloads/
+ 1312  cd bs
+ 1313  ls
+ 1314  texstudio draft.tex
+ 1315  octave
+ 1316  sudo apt remove octave
+ 1317  sudo apt-get update
+ 1318  sudo apt-get install octave
+ 1319  octave
+ 1320  sudo apt remove octave
+ 1321  hg clone https://www.octave.org/hg/octave
+ 1322  sudo apt install mercurial
+ 1323  hg clone https://www.octave.org/hg/octave
+ 1324  hg clone https://hg.savannah.gnu.org/hgweb/octave
+ 1325  ls
+ 1326  ls octave
+ 1327  mv octave Octave
+ 1328  ls
+ 1329  ls Octave/
+ 1330  hg clone https://www.octave.org/hg/octave
+ 1331  ls
+ 1332  cd octave
+ 1333  hg clone https://hg.savannah.gnu.org/hgweb/octave
+ 1334  ls
+ 1335  ls octave
+ 1336  sudo apt-add-repository ppa:octave/stable
+ 1337  sudo apt-get update
+ 1338  sudo apt-get install octave
+ 1339  octave
+ 1340  sudo apt remove octave
+ 1341  hg clone https://hg.savannah.gnu.org/hgweb/octave
+ 1342  ls octave
+ 1343  octave
+ 1344  flatpack
+ 1345  sudo add-apt-repository ppa:alexlarsson/flatpak
+ 1346  sudo apt update
+ 1347  apt list --upgradable
+ 1348  sudo apt install flatpak
+ 1349  cd Downloads
+ 1350  ls
+ 1351  flatpak org.octave.Octave.flatpakref
+ 1352  flatpak install flathub org.octave.Octave
+ 1353  hg clone https://hg.savannah.gnu.org/hgweb/octave
+ 1354  ls
+ 1355  cd octave
+ 1356  ls
+ 1357  cd build-aux
+ 1358  ls
+ 1359  cd ..
+ 1360  ls
+ 1361  find . -n "INSTALL.OCTAVE"
+ 1362  find . -name "INSTALL.OCTAVE"
+ 1363  make INSTALL.OCTAVE
+ 1364  cd build-aux/
+ 1365  ls
+ 1366  cd ..
+ 1367  ls
+ 1368  make
+ 1369  cat Makefile.am 
+ 1370  ls
+ 1371  cd ..
+ 1372  ls
+ 1373  rm -rf octave
+ 1374  ls
+ 1375  rm octave-4.4.1.tar.xz 
+ 1376  cd octave-4.4.1/
+ 1377  ls
+ 1378  make INSTALL.OCTAVE
+ 1379  cat INSTALL.OCTAVE 
+ 1380  gedit INSTALL.OCTAVE 
+ 1381  cat INSTALL
+ 1382  ./configure && make && make install
+ 1383  sudo apt-get install gcc g++ gfortran make libblas-dev liblapack-dev libpcre3-dev libarpack2-dev libcurl4-gnutls-dev epstool libfftw3-dev transfig libfltk1.3-dev libfontconfig1-dev libfreetype6-dev libgl2ps-dev libglpk-dev libreadline-dev gnuplot-x11 libgraphicsmagick++1-dev libhdf5-serial-dev openjdk-8-jdk libsndfile1-dev llvm-dev lpr texinfo libgl1-mesa-dev libosmesa6-dev pstoedit portaudio19-dev libqhull-dev libqrupdate-dev libqscintilla2-dev libqt4-dev libqtcore4 libqtwebkit4 libqt4-network libqtgui4 libqt4-opengl-dev libsuitesparse-dev texlive libxft-dev zlib1g-dev autoconf automake bison flex gperf gzip icoutils librsvg2-bin libtool perl rsync tar
+ 1384  ./configure && make && make install
+ 1385  xdg-open Downloads/*.html
+ 1386  mkdir html
+ 1387  mv Downloads/*html html
+ 1388  cd Downloads/
+ 1389  mv *.html ../html
+ 1390  ls
+ 1391  cd ..
+ 1392  ls
+ 1393  xdg-open exs_redes.html
+ 1394  octave
+ 1395  sudo apt install octave
+ 1396  htop
+ 1397  sudo apt install octave
+ 1398  sudo apt-get upgrade
+ 1399  reboot
+ 1400  uva
+ 1401  cd graph
+ 1402  ls
+ 1403  atom uva924.cpp
+ 1404  atom
+ 1405  uva 
+ 1406  cd graph
+ 1407  g++ uva429_new.cpp -o new
+ 1408  ls
+ 1409  ./new < teste.in
+ 1410  g++ uva924.cpp -o news
+ 1411  ./news < teste.in
+ 1412  g++ uva924.cpp -o news
+ 1413  ./news < teste.in
+ 1414  g++ uva924.cpp -o news
+ 1415  ./news < teste.in
+ 1416  g++ uva924.cpp -o news
+ 1417  ./news < teste.in
+ 1418  ./news < teste.in > teste.out
+ 1419  -lm -lcrypt -O2 -std=c++11 -pipe -DONLINE_JUDGE
+ 1420  g++ uva924.cpp -o news -lm -lcrypt -O2 -std=c++11 -pipe -DONLINE_JUDGE
+ 1421  valgrind ./news < teste.in
+ 1422  valgrind ./news < teste.in -v
+ 1423  ./news < teste.in
+ 1424  octave
+ 1425  sudo apt install octave
+ 1426  octave
+ 1427  apt-get install --only-upgrade octave
+ 1428  sudo apt-get install --only-upgrade octave
+ 1429  update-manager -c
+ 1430  htop
+ 1431  kill 1805
+ 1432  atom --disable-gpu
+ 1433  atom --version
+ 1434  ls
+ 1435  atom --version
+ 1436  cd Downloads
+ 1437  ls
+ 1438  rm atom-amd64.deb
+ 1439  sudo dpkg -i atom-amd64\ \(1\).deb 
+ 1440  atom
+ 1441  atom
+ 1442  octave
+ 1443  ls
+ 1444  cd octave
+ 1445  cd Octave
+ 1446  ls
+ 1447  atom bisseccao.m
+ 1448  ls -a
+ 1449  ls -l
+ 1450  ls -sla
+ 1451  find . -name "*.apk"
+ 1452  find . -name *.apk
+ 1453  adb shell pm list packages
+ 1454  sudo apt install adb
+ 1455  adb shell pm list packages
+ 1456  ls
+ 1457  cd .apk
+ 1458  ls
+ 1459  la . -l
+ 1460  cd ..
+ 1461  ls data -l
+ 1462  ls -l
+ 1463  chmod 777 data
+ 1464  ls
+ 1465  ls -l
+ 1466  sudo chmod 777 data
+ 1467  chmod 777 data
+ 1468  cd data
+ 1469  adb shell pm list packages
+ 1470  adb shell pm list packages -f
+ 1471  ls
+ 1472  cd Downloads/
+ 1473  ls
+ 1474  xdg-open tk\ from\ ling\ tosite\ sigure\ unravel.mov
+ 1475  killall pulseaudio; rm -r ~/.config/pulse/*
+ 1476  uva
+ 1477  cd graph
+ 1478  g++ uva429_new.cpp -o new -g
+ 1479  ./new < teste.in
+ 1480  ./new < teste.in > teste.out
+ 1481  htop
+ 1482  ls
+ 1483  uva
+ 1484  cd graph
+ 1485  ls
+ 1486  atom uva942.cpp
+ 1487  g++ uva924.cpp -o news
+ 1488  ./news < teste.in
+ 1489  g++ uva924.cpp -o news
+ 1490  ./news < teste.in
+ 1491  ./news < teste.in > teste.out
+ 1492  cd ../../
+ 1493  ls
+ 1494  cd personal_projects/
+ 1495  ls
+ 1496  mkdir tgs-salt
+ 1497  mv ../../Downloads/all.zip  .
+ 1498  ls
+ 1499  mv all.zip tgs-salt/
+ 1500  ls
+ 1501  cd tgs-salt/
+ 1502  ls
+ 1503  unzip all.zip -d .
+ 1504  ls
+ 1505  rm all zip
+ 1506  rm all.zip
+ 1507  ls
+ 1508  unzip test.zip -d test
+ 1509  unzip train.zip -d train
+ 1510  ls
+ 1511  rm test.zip
+ 1512  rm train.zip
+ 1513  ls
+ 1514  nautilus .
+ 1515  101*101
+ 1516  python3
+ 1517  ls
+ 1518  cd data
+ 1519  ls
+ 1520  cd ..
+ 1521  ls
+ 1522  cd data
+ 1523  cd app
+ 1524  cd ..
+ 1525  ls
+ 1526  cd Android
+ 1527  ls
+ 1528  cd data
+ 1529  ls
+ 1530  cd app
+ 1531  cd ..
+ 1532  ls
+ 1533  cd ..
+ 1534  ls
+ 1535  adb shell pm path .
+ 1536  adb shell pm path com.example.someapp
+ 1537  adb shell pm path com.fanatee.cody
+ 1538  ls
+ 1539  cd ..
+ 1540  adb shell pm path com.fanatee.cody
+ 1541  cd
+ 1542  cd Downloads/
+ 1543  ls
+ 1544  mkdir cody
+ 1545  mv *.apk cody
+ 1546  cd cody
+ 1547  ls
+ 1548  apktool d CodyCross\ Crossword\ Puzzles_v1.15.0_apkpure.com.apk CodyCross\ Crossword\ Puzzles_v1.15.0_apkpure.com.apk -o | mdkdir cody_dir
+ 1549  apktool d CodyCross\ Crossword\ Puzzles_v1.15.0_apkpure.com.apk CodyCross\ Crossword\ Puzzles_v1.15.0_apkpure.com.apk -o | mkdir cody_dir
+ 1550  ls
+ 1551  cd cody_dir/
+ 1552  ls
+ 1553  cd ..
+ 1554  apktool d CodyCross\ Crossword\ Puzzles_v1.15.0_apkpure.com.apk CodyCross\ Crossword\ Puzzles_v1.15.0_apkpure.com.apk -o cody_dir
+ 1555  apktool d CodyCross\ Crossword\ Puzzles_v1.15.0_apkpure.com.apk CodyCross\ Crossword\ Puzzles_v1.15.0_apkpure.com.apk -o cody_dir -f
+ 1556  ls
+ 1557  cd cody_dir/
+ 1558  ls
+ 1559  cd smali
+ 1560  ls
+ 1561  cd com
+ 1562  ls
+ 1563  cd fanatee/
+ 1564  ls
+ 1565  cd cody
+ 1566  ls
+ 1567  atom CodyApplication.smali 
+ 1568  atom R.smali UnityPlayerActivity.smali 
+ 1569  cd ../../../
+ 1570  ls
+ 1571  cd ../
+ 1572  ls
+ 1573  atom .
+ 1574  cd Documents/personal_projects/tgs-salt/
+ 1575  ls
+ 1576  source activate
+ 1577  jupyter-notebook
+ 1578  jupyter-notebook ../../../
+ 1579  source deactivate
+ 1580  uva
+ 1581  cd graph
+ 1582  atom uva10305.cpp
+ 1583  g++ uva10305.cpp -o tasks
+ 1584  ./tasks < teste.in > teste.out
+ 1585  g++ uva10305.cpp -o tasks
+ 1586  ./tasks < teste.in > teste.out
+ 1587  g++ uva10305.cpp -o tasks -g
+ 1588  gdb tasks
+ 1589  g++ uva10305.cpp -o tasks -g
+ 1590  ./tasks < teste.in > teste.out
+ 1591  ./tasks < teste.in 
+ 1592  ./tasks < teste.in > teste.out
+ 1593  gdb tasks
+ 1594  g++ uva10305.cpp -o tasks -g
+ 1595  ./tasks < teste.in > teste.out
+ 1596  g++ test.cpp -o test
+ 1597  ./test < teste.in
+ 1598  g++ test.cpp -o test
+ 1599  ./test < teste.in
+ 1600  g++ test.cpp -o test
+ 1601  ./test < teste.in
+ 1602  g++ uva11060.cpp -o drinks -g
+ 1603  g++ uva11060.cpp -o drinks -g -std=c++11
+ 1604  ./test < teste.in
+ 1605  ./drinks < teste.in > teste.out
+ 1606  gdb drinks
+ 1607  g++ uva11060.cpp -o drinks -g -std=c++11
+ 1608  ./drinks < teste.in > teste.out
+ 1609  pkill -n nautilus
+ 1610  atom
+ 1611  uva
+ 1612  cd graph
+ 1613  atom .
+ 1614  g++ uva11060.cpp
+ 1615  g++ uva11060.cpp -o drinks
+ 1616  ./drinks < teste.in > teste.out
+ 1617  g++ uva11060.cpp -o drinks
+ 1618  ./drinks < teste.in > teste.out
+ 1619  g++ uva11060.cpp -o drinks
+ 1620  ./drinks < teste.in > teste.out
+ 1621  g++ uva11060.cpp -o drinks
+ 1622  ./drinks < teste.in > teste.out
+ 1623  g++ uva11060.cpp -o drinks
+ 1624  ./drinks < teste.in > teste.out
+ 1625  g++ uva11060.cpp -o drinks
+ 1626  ./drinks < teste.in > teste.out
+ 1627  g++ uva872.cpp -o ordering
+ 1628  ./ordering < teste.in
+ 1629  g++ uva872.cpp -o ordering
+ 1630  ./ordering < teste.in
+ 1631  g++ uva872.cpp -o ordering
+ 1632  ./ordering < teste.in
+ 1633  g++ uva872.cpp -o ordering
+ 1634  ./ordering < teste.in
+ 1635  g++ uva872.cpp -o ordering
+ 1636  ./ordering < teste.in
+ 1637  g++ uva872.cpp -o ordering
+ 1638  ./ordering < teste.in
+ 1639  g++ uva872.cpp -o ordering
+ 1640  g++ uva872.cpp -o ordering -g
+ 1641  ./ordering < teste.in
+ 1642  gdb ordering
+ 1643  g++ uva872.cpp -o ordering -g
+ 1644  gdb ordering
+ 1645  g++ uva872.cpp -o ordering -g
+ 1646  ./ordering < teste.in
+ 1647  gdb ordering
+ 1648  g++ uva872.cpp -o ordering -g
+ 1649  ./ordering < teste.in
+ 1650  gdb ordering
+ 1651  g++ uva872.cpp -o ordering -g
+ 1652  gdb ordering
+ 1653  g++ uva872.cpp -o ordering -g
+ 1654  gdb ordering
+ 1655  g++ uva872.cpp -o ordering -g
+ 1656  gdb ordering
+ 1657  g++ test.cpp -o test
+ 1658  g++ uva872.cpp -o ordering -g
+ 1659  ./ordering < teste.in
+ 1660  gdb ordering
+ 1661  g++ uva872.cpp -o ordering -g
+ 1662  ./ordering < teste.in
+ 1663  gdb ordering
+ 1664  g++ uva872.cpp -o ordering -g
+ 1665  ./ordering < teste.in
+ 1666  gdb ordering
+ 1667  g++ uva872.cpp -o ordering -g
+ 1668  ./ordering < teste.in
+ 1669  gdb ordering
+ 1670  g++ uva872.cpp -o ordering -g
+ 1671  ./ordering < teste.in
+ 1672  g++ uva872.cpp -o ordering -g
+ 1673  ./ordering < teste.in
+ 1674  gdb ordering 
+ 1675  g++ uva872.cpp -o ordering -g
+ 1676  ./ordering < teste.in
+ 1677  g++ uva872.cpp -o ordering -g
+ 1678  ./ordering < teste.in
+ 1679  g++ uva872.cpp -o ordering -g
+ 1680  ./ordering < teste.in
+ 1681  ./ordering < teste.in > teste.out
+ 1682  gdb ordering
+ 1683  g++ test.cpp -o test
+ 1684  ./test < teste.in
+ 1685  g++ test.cpp -o test -g
+ 1686  gdb test
+ 1687  g++ test.cpp -o test -g
+ 1688  gdb test
+ 1689  g++ test.cpp -o test -g
+ 1690  ./test < teste.in
+ 1691  g++ test.cpp -o test -g
+ 1692  ./test < teste.in
+ 1693  gdb test
+ 1694  g++ test.cpp -o test -g
+ 1695  ./test < teste.in
+ 1696  gdb test
+ 1697  g++ test.cpp -o test -g
+ 1698  ./test < teste.in
+ 1699  g++ uva872.cpp -o ordering -g
+ 1700  ./ordering < teste.in 
+ 1701  g++ uva872.cpp -o ordering -g
+ 1702  ./ordering < teste.in 
+ 1703  g++ uva872.cpp -o ordering -g
+ 1704  ./ordering < teste.in 
+ 1705  ./ordering < teste.in > teste.out
+ 1706  g++ uva872.cpp -o ordering -g
+ 1707  ./ordering < teste.in > teste.out
+ 1708  g++ test.cpp -o tes
+ 1709  g++ test.cpp -o test
+ 1710  g++ uva872.cpp -o ordering -g
+ 1711  g++ test.cpp -o test
+ 1712  ./test
+ 1713  g++ test.cpp -o test
+ 1714  g++ uva872.cpp -o ordering -g
+ 1715  ./ordering < teste.in > teste.out
+ 1716  htop
+ 1717  pkill -n chrome
+ 1718  pkill -n chrome -f
+ 1719  pkill -n chrome -rf
+ 1720  pkill -n chrome -f
+ 1721  kill -n chrome
+ 1722  pkill -n google-chrome -f
+ 1723  pkill -n google-chrome 
+ 1724  ls
+ 1725  cd Documents/
+ 1726  ls
+ 1727  cd personal_projects/
+ 1728  ls
+ 1729  cd ../..
+ 1730  ls
+ 1731  cd MC536/
+ 1732  ls
+ 1733  cat diagnostico_inflamacao.ipynb 
+ 1734  xdg-open Downloads/tk\ from\ ling\ tosite\ sigure\ unravel.mov 
+ 1735  uva
+ 1736  ls
+ 1737  mkdir math
+ 1738  cd math
+ 1739  ls
+ 1740  atom uva1210.cpp teste.in
+ 1741  g++ primes.cpp -o primes
+ 1742  ./primes > primes.out
+ 1743  g++ primes.cpp -o primes
+ 1744  g++ uva1210.cpp -o prime
+ 1745  ./prime < teste.in
+ 1746  g++ primes.cpp -o primes
+ 1747  ./primes
+ 1748  ./primes > primes.out
+ 1749  g++ uva10235.cpp -o test_primes
+ 1750  ./test_primes 
+ 1751  ./test_primes  > primes.out
+ 1752  time ./test_primes
+ 1753  time ./test_primes > primes.out
+ 1754  time ./test_primes 
+ 1755  g++ uva10235.cpp -o test_primes
+ 1756  time ./test_primes 
+ 1757  gedit ../graph/test.cpp
+ 1758  g++ uva10235.cpp -o bla
+ 1759  ./bla < teste.in > teste.out
+ 1760  g++ uva10235.cpp -o bla
+ 1761  ./bla < teste.in > teste.out
+ 1762  g++ uva11287 -o fermat
+ 1763  g++ uva11287.cpp -o fermat
+ 1764  ./fermat < teste.in > teste.out
+ 1765  g++ uva11287.cpp -o fermat
+ 1766  ./fermat < teste.in > teste.out
+ 1767  gdb fermat
+ 1768  g++ uva11287.cpp -o fermat -g
+ 1769  gdb fermat
+ 1770  g++ uva11287.cpp -o fermat -g
+ 1771  gdb fermat
+ 1772  g++ uva11287.cpp -o fermat -g
+ 1773  ./fermat < teste.in > teste.out
+ 1774  gdb fermat
+ 1775  python3 uva11287.py < teste.in
+ 1776  g++ uva11287.cpp -o bla
+ 1777  ./bla < teste.in
+ 1778  python3 uva11287.py < teste.in
+ 1779  time python3 uva11287.py < teste.in
+ 1780  time python3 uva11287.py < teste.in > teste.out
+ 1781  cat teste.out
+ 1782  time python3 uva11287.py < teste.in > teste.out
+ 1783  time python3 uva11287.py < teste.in 
+ 1784  g++ uva11172.cpp -o bla
+ 1785  ./bla < teste.in 
+ 1786  cd ../graph
+ 1787  g++ uva247.cpp -o bla
+ 1788  ./bla < teste.in
+ 1789  ./bla < teste.in > teste.out
+ 1790  g++ uva247.cpp -o bla
+ 1791  g++ uva247.cpp -o bla  -lm -lcrypt -O2 -std=c++11 -pipe -DONLINE_JUDGE
+ 1792  ./bla < teste.in
+ 1793  ./bla < teste.in > teste.out
+ 1794  valgrind ./bla < teste.in > teste.out
+ 1795  g++ uva11504.cpp -o dominos
+ 1796  g++ uva11504.cpp -o dominos -g
+ 1797  ./dominos < teste.in > teste.out
+ 1798  g++ uva11504.cpp -o dominos -g
+ 1799  ./dominos < teste.in > teste.out
+ 1800  g++ uva11504.cpp -o dominos -g
+ 1801  ./dominos < teste.in > teste.out
+ 1802  g++ uva11504.cpp -o dominos -g
+ 1803  ./dominos < teste.in > teste.out
+ 1804  g++ parseinput.cpp -o parse
+ 1805  ./parse < teste.in
+ 1806  ./parse < teste2.in
+ 1807  gdb parse
+ 1808  g++ parseinput.cpp -o parse -g
+ 1809  gdb parse
+ 1810  g++ parseinput.cpp -o parse -g
+ 1811  ./parse < teste2.in
+ 1812  ./parse < teste.in
+ 1813  ./dominos < teste.in > teste.out
+ 1814  g++ uva11504.cpp -o dominos -g
+ 1815  gdb dominos
+ 1816  g++ uva11504.cpp -o dominos -g
+ 1817  ./dominos < teste.in > teste.out
+ 1818  ls
+ 1819  cd ..
+ 1820  ls
+ 1821  mkdir generic
+ 1822  cd generic/
+ 1823  atom uva10189.cpp
+ 1824  g++ test.cpp -o test
+ 1825  ./test < teste.in
+ 1826  g++ test.cpp -o test
+ 1827  ./test < teste.in
+ 1828  g++ uva10189.cpp -o mines
+ 1829  ./mines < teste.in > teste.out
+ 1830  g++ uva10189.cpp -o mines
+ 1831  ./mines < teste.in > teste.out
+ 1832  g++ uva10189.cpp -o mines
+ 1833  ./mines < teste.in > teste.out
+ 1834  uva
+ 1835  atom
+ 1836  g++ uva11838.cpp -o roads
+ 1837  ./roads < teste.in
+ 1838  g++ uva11838.cpp -o roads -g
+ 1839  gdb roads
+ 1840  g++ uva11838.cpp -o roads -g
+ 1841  ./roads < teste.in
+ 1842  g++ uva11838.cpp -o roads -g
+ 1843  ./roads < teste.in
+ 1844  gdb roads
+ 1845  g++ uva11838.cpp -o roads -g
+ 1846  ./roads < teste.in
+ 1847  ./roads < teste.in > teste.out
+ 1848  g++ uva11504.cpp -o dominos
+ 1849  ./dominos < teste.in > teste.out
+ 1850  gdb dominos
+ 1851  g++ uva11504.cpp -o dominos -g
+ 1852  gdb dominos
+ 1853  g++ uva11504.cpp -o dominos -g
+ 1854  ./dominos < teste.in > teste.out
+ 1855  gdb dominos
+ 1856  g++ uva11504.cpp -o dominos -g
+ 1857  ./dominos < teste.in > teste.out
+ 1858  gdb dominos
+ 1859  g++ uva11504.cpp -o dominos -g
+ 1860  ./dominos < teste.in > teste.out
+ 1861  gdb dominos
+ 1862  g++ test.cpp -o test
+ 1863  ./test
+ 1864  g++ test.cpp -o test
+ 1865  ./test
+ 1866  g++ test.cpp -o test
+ 1867  ./test
+ 1868  g++ uva247.cpp -o call
+ 1869  ./call < teste.in > teste.out
+ 1870  gdb call
+ 1871  g++ uva247.cpp -o call -g
+ 1872  gdb call
+ 1873  g++ uva247.cpp -o call -g
+ 1874  ./call < teste.in > teste.out
+ 1875  g++ uva247.cpp -o call -g
+ 1876  ./call < teste.in > teste.out
+ 1877  g++ uva100.cpp -o nnn
+ 1878  ./nnn < teste.in > teste.out
+ 1879  gdb nnn
+ 1880  g++ uva100.cpp -o nnn -g
+ 1881  gdb nnn
+ 1882  g++ uva100.cpp -o nnn -g
+ 1883  ./nnn < teste.in > teste.out
+ 1884  g++ uva100.cpp -o nnn -g
+ 1885  ./nnn < teste.in > teste.out
+ 1886  g++ uva100.cpp -o nnn -g
+ 1887  ./nnn < teste.in > teste.out
+ 1888  g++ uva10055.cpp -o ridi
+ 1889  ./ridi < teste.in > teste.out
+ 1890  g++ uva10055.cpp -o ridi
+ 1891  ./ridi < teste.in > teste.out
+ 1892  g++ uva10071.cpp
+ 1893  g++ uva10071.cpp -o aff
+ 1894  ./aff < teste.in > teste.out
+ 1895  g++ test.cpp -o test
+ 1896  gedit test.cpp
+ 1897  g++ test.cpp -o test
+ 1898  gedit test.cpp
+ 1899  g++ test.cpp -o test
+ 1900  ./test
+ 1901  g++ test.cpp -o test -g
+ 1902  gdb test
+ 1903  gedit test.cpp
+ 1904  g++ test.cpp -o test -g
+ 1905  ./test
+ 1906  atom .
+ 1907  uva
+ 1908  ls
+ 1909  cd math
+ 1910  ls
+ 1911  atom uva11287.java
+ 1912  javac uva11287.java 
+ 1913  ls
+ 1914  java uva11287
+ 1915  javac uva11287.java 
+ 1916  java uva11287 < teste.in > teste.out
+ 1917  javac uva11287.java 
+ 1918  java uva11287 < teste.in > teste.out
+ 1919  jdb uva11287
+ 1920  java uva11287
+ 1921  java uva11287 < teste.in
+ 1922  javac uva11287.java 
+ 1923  java uva11287 < teste.in
+ 1924  jdb uva11287.class
+ 1925  jdb uva11287
+ 1926  javac teste.java
+ 1927  runn
+ 1928  java teste
+ 1929  javac teste.java
+ 1930  java teste
+ 1931  eclipse
+ 1932  xdg-open ~/Downloads/tk\ from\ ling\ tosite\ sigure\ unravel.mov 
+ 1933  history
+ 1934  killall pulseaudio; rm -r ~/.config/pulse/*
+ 1935  xdg-open ~/Downloads/tk\ from\ ling\ tosite\ sigure\ unravel.mov 
+ 1936  uva
+ 1937  cd math
+ 1938  javac uva11287.java 
+ 1939  java uva11287 < teste.in
+ 1940  javac uva11287.java 
+ 1941  java uva11287 < teste.in
+ 1942  javac uva11287.java 
+ 1943  java uva11287 < teste.in
+ 1944  javac uva11287.java 
+ 1945  java uva11287 < teste.in
+ 1946  java uva11287 < teste.in > teste.out
+ 1947  javac uva11287.java 
+ 1948  java uva11287 < teste.in > teste.out
+ 1949  javac uva11287.java 
+ 1950  java uva11287 < teste.in > teste.out
+ 1951  java uva11287 < teste.in 
+ 1952  java uva11287 < teste.in > teste.out
+ 1953  javac uva11287.java 
+ 1954  java uva11287 < teste.in > teste.out
+ 1955  javac uva11287_new.java 
+ 1956  java uva11287_new < teste.in > teste.out
+ 1957  javac uva11287_new.java 
+ 1958  java uva11287_new < teste.in > teste.out
+ 1959  javac uva11287_new.java 
+ 1960  java uva11287_new < teste.in 
+ 1961  javac uva11287_new.java 
+ 1962  java uva11287_new < teste.in
+ 1963  javac uva11287_new.java 
+ 1964  javac Main.java 
+ 1965  java Main < teste.in
+ 1966  javac uva11821.java
+ 1967  java uva11821 < teste.in
+ 1968  octave
+ 1969  atom
+ 1970  javac uva11821.java
+ 1971  uva
+ 1972  cd math
+ 1973  javac uva11821.java
+ 1974  java uva11821
+ 1975  java uva11821 < teste.in
+ 1976  eclipse
+ 1977  uva
+ 1978  cd math
+ 1979  gedit teste.in
+ 1980  killall pulseaudio; rm -r ~/.config/pulse/*
+ 1981  cd Downloads
+ 1982  cat *.cpp
+ 1983  ls *.cpp
+ 1984  cd Downloads/
+ 1985  cat 429.cpp 
+ 1986  uva
+ 1987  cd graph
+ 1988  g++ test.cpp
+ 1989  g++ test.cpp -o test
+ 1990  ./test
+ 1991  g++ test.cpp -o test
+ 1992  ./test
+ 1993  cd Downloads/
+ 1994  cat 429.cpp 
+ 1995  cat Downloads/429.cpp 
+ 1996  uva
+ 1997  g++ test.cpp -o tets
+ 1998  ./tets
+ 1999  g++ uva11747.cpp -o min
+ 2000  ./min < teste.in
+ 2001  g++ uva11747.cpp -o min -g
+ 2002  gdb min
+ 2003  g++ uva11747.cpp -o min -g
+ 2004  ./min < teste.in
+ 2005  gdb min
+ 2006  g++ uva11747.cpp -o min -g
+ 2007  ./min < teste.in
+ 2008  g++ uva11747.cpp -o min -g
+ 2009  ./min < teste.in
+ 2010  g++ uva11747.cpp -o min -g
+ 2011  ./min < teste.in
+ 2012  ./min < teste.in > teste.out
+ 2013  time ./min < teste.in > teste.out
+ 2014  cd ../generic
+ 2015  atom .
+ 2016  killall pulseaudio; rm -r ~/.config/pulse/*
+ 2017  g++ uva102.cpp
+ 2018  g++ uva102.cpp -o ha
+ 2019  ./ha < teste.in 
+ 2020  g++ uva102.cpp -o ha
+ 2021  ./ha < teste.in 
+ 2022  gdb ha
+ 2023  g++ uva102.cpp -o ha -g
+ 2024  gdb ha
+ 2025  g++ uva102.cpp -o ha -g
+ 2026  ./ha < teste.in 
+ 2027  ./ha < teste.in > teste.out
+ 2028  uva
+ 2029  cd graph
+ 2030  atom uva10369.cpp
+ 2031  history
+ 2032  history > fdp.txt

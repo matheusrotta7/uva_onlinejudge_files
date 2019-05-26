@@ -1,0 +1,1000 @@
+ 1060  ./gnomes50
+ 1061  ./gnomes
+ 1062  py gnomes.py
+ 1063  3
+ 1064  conda activate 
+ 1065  py gnomes.py
+ 1066  conda deactivate
+ 1067  source activate
+ 1068  jupyter-notebook
+ 1069  g++ cube.cpp -o cube
+ 1070  source deactivate
+ 1071  ./cube
+ 1072  jupyter-notebook
+ 1073  g++ bs.cpp -o bs
+ 1074  ./bs < teste.in 
+ 1075  g++ lms.cpp -o lms -g
+ 1076  ./lms < teste.in
+ 1077  g++ lms.cpp -o lms -g
+ 1078  ./lms < teste.in
+ 1079  gdb
+ 1080  gdb lms
+ 1081  g++ lms.cpp -o lms -g
+ 1082  ./lms < teste.in
+ 1083  g++ lms.cpp -o lms -g
+ 1084  ./lms < teste.in
+ 1085  g++ lms.cpp -o lms -g
+ 1086  ./lms < teste.in
+ 1087  g++ diff.cpp -o diff -g
+ 1088  ./diff < teste.in
+ 1089  cd ~/Desktop/MC833/project_mc833
+ 1090  clear
+ 1091  ./client_proj
+ 1092  ./client_proj localhost
+ 1093  octave
+ 1094  ./client_proj 127.0.0.1
+ 1095  cat data.txt
+ 1096  gedit data.txt
+ 1097  cd ~/Desktop/MC833/project_mc833
+ 1098  gedit data.txt
+ 1099  cd Desktop/
+ 1100  cd MC833/
+ 1101  ls
+ 1102  cd project_mc833/
+ 1103  ls
+ 1104  atom .
+ 1105  clear
+ 1106  ./compile.sh
+ 1107  ./server_proj
+ 1108  ls
+ 1109  ./server_proj
+ 1110  gcc file_test.c -o ft -g
+ 1111  ./ft
+ 1112  gdb ft
+ 1113  cd ~/Desktop/MC833/project_mc833
+ 1114  ./compile.sh
+ 1115  ./server_proj
+ 1116  ./compile.sh
+ 1117  ./server_proj
+ 1118  git add *.c
+ 1119  git commit -m "safety update"
+ 1120  git push origin master
+ 1121  cd Desktop
+ 1122  cd MC658/
+ 1123  ls
+ 1124  cd pratica
+ 1125  ls
+ 1126  cd proj1
+ 1127  ls
+ 1128  git add *.cpp
+ 1129  git commit -m "safety update"
+ 1130  git push origin master
+ 1131  atom .
+ 1132  cd ../../
+ 1133  cd ..
+ 1134  ls
+ 1135  cd MC833
+ 1136  ls
+ 1137  cd project_mc833/
+ 1138  ls
+ 1139  atom .
+ 1140  gcc file_test.c -o ft
+ 1141  ./ft
+ 1142  gcc file_test.c -o ft
+ 1143  ./ft
+ 1144  gcc file_test.c -o ft
+ 1145  ./ft
+ 1146  gcc file_test.c -o ft
+ 1147  ./ft
+ 1148  gcc file_test.c -o ft
+ 1149  ./ft
+ 1150  gcc file_test.c -o ft
+ 1151  ./ft
+ 1152  gcc file_test.c -o ft
+ 1153  ./ft
+ 1154  gcc file_test.c -o ft
+ 1155  ./ft
+ 1156  gcc file_test.c -o ft
+ 1157  ./ft
+ 1158  gcc file_test.c -o ft
+ 1159  ./ft
+ 1160  cat data.txt
+ 1161  gcc file_test.c -o ft
+ 1162  ./ft
+ 1163  gcc file_test.c -o ft -g
+ 1164  gdb ft
+ 1165  gcc file_test.c -o ft -g
+ 1166  ./ft
+ 1167  gcc file_test.c -o ft -g
+ 1168  ./ft
+ 1169  gcc file_test.c -o ft -g
+ 1170  ./ft
+ 1171  clear
+ 1172  ./client_proj localhost
+ 1173  cd Desktop/MC833/project_mc833/
+ 1174  ls
+ 1175  xdg-open proj18331s19.pdf 
+ 1176  atom .
+ 1177  ls
+ 1178  clear
+ 1179  ./compile.sh
+ 1180  ./server_proj
+ 1181  gdb server_proj
+ 1182  ./compile.sh
+ 1183  ./server_proj
+ 1184  ./compile.sh
+ 1185  ./server_proj
+ 1186  ./compile.sh
+ 1187  ./server_proj
+ 1188  ./compile.sh
+ 1189  ./server_proj
+ 1190  ./compile.sh
+ 1191  ./server_proj
+ 1192  git add *.c
+ 1193  git commit -m "safety update"
+ 1194  git push origin master
+ 1195  ./compile.sh
+ 1196  ./server_proj
+ 1197  git add *.c
+ 1198  git commit -m "started replicating and adjusting code to implement listing skills given the city"
+ 1199  git push origin master
+ 1200  cd ~/Desktop/MC833/project_mc833
+ 1201  ./client_proj localhost
+ 1202  ping google.com
+ 1203  ping google.com -v
+ 1204  ping www.google.com -v
+ 1205  ping www.facebook.com -v
+ 1206  cd Desktop/MC833/project_mc833/
+ 1207  ls
+ 1208  atom .
+ 1209  gcc file_test.c -o ft
+ 1210  ./ft
+ 1211  gcc file_test.c -o ft
+ 1212  ./ft
+ 1213  gcc file_test.c -o ft
+ 1214  ./ft
+ 1215  gcc file_test.c -o ft -g
+ 1216  gdb ft
+ 1217  gcc file_test.c -o ft -g
+ 1218  ./ft
+ 1219  ./compile.sh
+ 1220  ./server_proj
+ 1221  xdg-open proj18331s19.pdf 
+ 1222  ls
+ 1223  cp data.txt > data1.txt
+ 1224  cp data.txt  data1.txt
+ 1225  ls
+ 1226  ./server_proj
+ 1227  cp data.txt  data1.txt
+ 1228  ./compile.sh
+ 1229  ./server_proj
+ 1230  ./compile.sh
+ 1231  ./server_proj
+ 1232  git add *.c 
+ 1233  git commit -m "skill presentation is working"
+ 1234  git push origin master
+ 1235  gcc file_test.c -o ft
+ 1236  ./ft
+ 1237  cat data1.txt
+ 1238  gcc file_test.c -o ft
+ 1239  ./ft
+ 1240  cd ~/Desktop/MC833/project_mc833
+ 1241  ./client_proj localhost
+ 1242  cat data.txt
+ 1243  ./client_proj localhost
+ 1244  ping google.com
+ 1245  ping ww.]google.com
+ 1246  ping www.google.com
+ 1247  cd Desktop/M]C548
+ 1248  cd Desktop/MC658
+ 1249  ls
+ 1250  cd pratica
+ 1251  ls
+ 1252  cd proj1
+ 1253  ls
+ 1254  g++ flowshop.cpp -o flowshop
+ 1255  atom flowshop.cpp
+ 1256  g++ flowshop.cpp -o flowshop
+ 1257  git add *.cpp
+ 1258  git commit -m "now it's compiling, gabriel"
+ 1259  git push origin master
+ 1260  cd Desktop/MC658/pratica/
+ 1261  ls
+ 1262  cd proj1
+ 1263  ls
+ 1264  unzip tp1-bnb-texto.zip -d tp1-bnb-texto
+ 1265  nautilus .
+ 1266  g++ flowshop.cpp -o flowshop
+ 1267  g++ test.cpp -o test
+ 1268  clear
+ 1269  g++ test.cpp -o test
+ 1270  node new_n;
+ 1271  g++ test.cpp -o test
+ 1272  ./test
+ 1273  g++ test.cpp -o test
+ 1274  ./test
+ 1275  g++ test.cpp -o test
+ 1276  ./test
+ 1277  g++ test.cpp -o test
+ 1278  ./test
+ 1279  g++ test.cpp -o test
+ 1280  ./test
+ 1281  git add *.cpp
+ 1282  git commit -m "advanced but haven't checked if it compiles"
+ 1283  git push origin master
+ 1284  finger localhost
+ 1285  sudo apt install finger
+ 1286  finger localhost
+ 1287  finger -l localhost
+ 1288  finger -l localhost/Matheus
+ 1289  man finger
+ 1290  finger matheus@localhost
+ 1291  sudo finger matheus@localhost
+ 1292  finger root@localhost
+ 1293  finger -l root@localhost
+ 1294  finger -l matheus@localhost
+ 1295  fingerd
+ 1296  showmount -e localhost
+ 1297  sudo apt install nfs-common
+ 1298  showmount -e localhost
+ 1299  rpcinfo -p localhost
+ 1300  man rpcinfo
+ 1301  showmount -e localhost
+ 1302  man showmount
+ 1303  showmount -e www.google.com
+ 1304  showmount -e acervus.unicamp.br
+ 1305  rpcinfo -p acervus.unicamp.br
+ 1306  nslookup acervus.unicamp.br
+ 1307  rpcinfo -p 143.106.10.213
+ 1308  echo .rhosts last modified on `/bin/ls -l .rhosts | cut -c33-44`
+ 1309  ls
+ 1310  ls -l
+ 1311  cd ..
+ 1312  ls
+ 1313  ls -l
+ 1314  gedit .rhosts
+ 1315  cd
+ 1316  cd test
+ 1317  ls
+ 1318  echo + + >>/.rhosts
+ 1319  echo + + >> .rhosts
+ 1320  ls
+ 1321  cat .rhosts
+ 1322  cd
+ 1323  tcpdump
+ 1324  sudo tcpdump
+ 1325  tcpdump > tcp.txt
+ 1326  sudo tcpdump > tcp.txt
+ 1327  gedit tcp.txt
+ 1328  1+1
+ 1329  python
+ 1330  man showmount
+ 1331  cd ~/Desktop/MC942
+ 1332  start
+ 1333  terminal
+ 1334  clear
+ 1335  xdg-open SEGC-01.pdf
+ 1336  ping 143.106.10.213
+ 1337  nmap 143.106.10.213
+ 1338  man nmap
+ 1339  nmap -A -T4 acervus.unicamp.br
+ 1340  nmap -A -T4 143.106.10.213
+ 1341  nslookup acervus.unicamp.br
+ 1342  cd Desktop/MC942/
+ 1343  ls
+ 1344  gedit shimomura.txt
+ 1345  cd ~/Desktop/MC833/project_mc833
+ 1346  t
+ 1347  cd ../..
+ 1348  ls
+ 1349  cd sbin
+ 1350  ls
+ 1351  clear
+ 1352  cd
+ 1353  clear
+ 1354  ls
+ 1355  clear
+ 1356  gnome-session
+ 1357  reboot
+ 1358  cd ../..
+ 1359  cd etc
+ 1360  ls
+ 1361  ll rc3.d
+ 1362  ll ../../etc/rc3.d
+ 1363  cd ../../etc/rc3.d
+ 1364  ls
+ 1365  man hddtemp
+ 1366  htop
+ 1367  thermald
+ 1368  sudo thermald
+ 1369  thermal
+ 1370  htop
+ 1371  cd Desktop/MC942/
+ 1372  ls
+ 1373  xdg-open SEGC-02.pdf 
+ 1374  cd Desktop/MC833/project_mc833/
+ 1375  ls
+ 1376  atom .
+ 1377  gcc file_test.c -o file_test
+ 1378  ./ft
+ 1379  gcc file_test.c -o file_test
+ 1380  ./ft
+ 1381  gcc file_test.c -o file_test
+ 1382  ./ft
+ 1383  gcc file_test.c -o file_test
+ 1384  ./ft
+ 1385  gcc file_test.c -o file_test
+ 1386  gcc file_test.c -o file_test -g
+ 1387  ./ft
+ 1388  gcc file_test.c -o ft -g
+ 1389  ./ft
+ 1390  gcc file_test.c -o ft -g
+ 1391  ./ft
+ 1392  gcc file_test.c -o ft -g
+ 1393  ./ft
+ 1394  gcc file_test.c -o ft -g
+ 1395  ./ft
+ 1396  gdb fft
+ 1397  gdb ft
+ 1398  gcc file_test.c -o ft -g
+ 1399  ./ft
+ 1400  gcc file_test.c -o ft -g
+ 1401  gdb ft
+ 1402  gcc file_test.c -o ft -g
+ 1403  ./ft
+ 1404  gcc file_test.c -o ft -g
+ 1405  ./ft
+ 1406  gcc file_test.c -o ft -g
+ 1407  ./ft
+ 1408  gcc file_test.c -o ft -g
+ 1409  ./ft
+ 1410  gcc file_test.c -o ft -g
+ 1411  ./ft
+ 1412  gcc file_test.c -o ft -g
+ 1413  ./ft
+ 1414  gcc file_test.c -o ft -g
+ 1415  ./ft
+ 1416  gcc file_test.c -o ft -g
+ 1417  ./ft
+ 1418  cd ~/folha/iwar-0.071
+ 1419  ls
+ 1420  cd iwar-asterisk-testing/
+ 1421  ls
+ 1422  cd ..
+ 1423  ls
+ 1424  iwar -r 
+ 1425  cat ../phones.txt
+ 1426  iwar  1132243090
+ 1427  ./install-sh
+ 1428  source install-sh
+ 1429  cd ~/folha/iwar-0.071
+ 1430  source install-sh
+ 1431  htop
+ 1432  cd folha
+ 1433  mkdir folha
+ 1434  ls
+ 1435  cd folah
+ 1436  cd folha
+ 1437  echo 1132243090    ---      08007758080  > phones.txt
+ 1438  ls
+ 1439  cat phones.txt 
+ 1440  sudo apt install iwar
+ 1441  mv ../Downloads/iwar-0.071.tar.gz .
+ 1442  ls
+ 1443  tar -xf iwar-0.071.tar.gz
+ 1444  ls
+ 1445  cd iwar-0.071/
+ 1446  ls
+ 1447  cat README
+ 1448  gedit README
+ 1449  sudo iwar -r 1132243090-1132243091
+ 1450  cd folha
+ 1451  cd iwar-0.071/
+ 1452  ls
+ 1453  sudo iwar -r 12997680036-12997680037
+ 1454  sudo iwar -x 12997680036-12997680037
+ 1455  sudo iwar -rx 12997680036-12997680037
+ 1456  sudo iwar -r -x 12997680036-12997680037
+ 1457  cd ..
+ 1458  iwar
+ 1459  gedit phones.txt 
+ 1460  iwar -L phones.txt
+ 1461  sudo iwar -L phones.txt
+ 1462  cd folha/
+ 1463  ls
+ 1464  gedit phones.txt
+ 1465  sudo iwar -L phones.txt
+ 1466  sudo iwar -r 5511990000000-5512999999999
+ 1467  sudo iwar -e 5511990000000-5512999999999
+ 1468  sudo iwar -e 990000000-999999999
+ 1469  sudo iwar -r 990000000-999999999
+ 1470  clear
+ 1471  iwar -h
+ 1472  sudo su
+ 1473  iwar -h
+ 1474  iwar -L folha/phones.txt  -s=2000
+ 1475  iwar -L folha/phones.txt  -s2000
+ 1476  iwar -L folha/phones.txt  -s1200
+ 1477  iwar -L folha/phones.txt  -s600
+ 1478  iwar -L folha/phones.txt  -s2400
+ 1479  sudo iwar -L folha/phones.txt  -s2400
+ 1480  close
+ 1481  exit
+ 1482  voip
+ 1483  lspci
+ 1484  lspci > hard.txt
+ 1485  gedit hard.txt 
+ 1486  lspci -vv > hard.txt
+ 1487  sudo lspci -vv > hard.txt
+ 1488  cd folha
+ 1489  ls
+ 1490  cd iwar-0.071/
+ 1491  ls
+ 1492  gedit README
+ 1493  cd folha
+ 1494  ls
+ 1495  cd folha/iwar-0.071/
+ 1496  ls
+ 1497  make Makefile.in
+ 1498  make Makefile.am
+ 1499  cat INSTALL
+ 1500  gedit INSTALL
+ 1501  ./configure
+ 1502  sudo apt install ncurses
+ 1503  ls
+ 1504  mv ../Downloads/ncurses.tar.gz  .
+ 1505  ls
+ 1506  tar -xf ncurses.tar.gz 
+ 1507  cd ncurses-6.1/
+ 1508  ls
+ 1509  gedit INSTALL
+ 1510  ./configure
+ 1511  make
+ 1512  cd ../iwar-0.071/
+ 1513  ls
+ 1514  ./configure
+ 1515  cd ..
+ 1516  cd ncurses-6.1/
+ 1517  ls
+ 1518  ncurses
+ 1519  cd ncurses/
+ 1520  ls
+ 1521  cd ..
+ 1522  ls
+ 1523  cd test/
+ 1524  ls
+ 1525  ncurses
+ 1526  ./ncurses
+ 1527  cat README
+ 1528  ls
+ 1529  ./configure
+ 1530  make
+ 1531  cd ..
+ 1532  make install
+ 1533  sudo make install
+ 1534  cd ../iwar-0.071/
+ 1535  ls
+ 1536  sudo make install
+ 1537  ./configure
+ 1538  ./configure --disable-mysql
+ 1539  cat README.IAX2
+ 1540  ./configure --disable-mysql --disable-iax2 
+ 1541  sudo make install
+ 1542  iwar
+ 1543  cat ../phones.txt 
+ 1544  iwar -r +551132243090-+551132243090
+ 1545  iwar -r +1132243090-1132243090
+ 1546  iwar -r 1132243090-1132243090
+ 1547  iwar -r 1132243090-1132243091
+ 1548  sudo iwar -r 1132243090-1132243091
+ 1549  cd ~/Desktop/MC833/project_mc833
+ 1550  ./client_proj localhost
+ 1551  clear
+ 1552  xdg-open proj18331s19.pdf 
+ 1553  ./client_proj
+ 1554  ./client_proj localhost
+ 1555  4
+ 1556  3
+ 1557  flaskdf
+ 1558  çalskfdjçalskdfj
+ 1559  çalskdfçlaskdfjçlsakdjf
+ 1560  ./client_proj localhost
+ 1561  clear
+ 1562  ./client_proj localhost
+ 1563  clear
+ 1564  ./client_proj localhost
+ 1565  clear
+ 1566  ./client_proj localhost
+ 1567  clear
+ 1568  ./client_proj localhost
+ 1569  git add *.c
+ 1570  git commit -m "almost everything working"
+ 1571  git push origin master
+ 1572  mv ../../../Downloads/44516895_2328707380476267_6466040957383999488_n.jpg .
+ 1573  ls
+ 1574  mv 44516895_2328707380476267_6466040957383999488_n.jpg gabriel.jpg
+ 1575  ls
+ 1576  atom server_photo.c client_photo.c
+ 1577  cd Desktop/MC833/project_mc833/
+ 1578  ./ft
+ 1579  cd Desktop/MC833/project_mc833/
+ 1580  gcc file_test.c -o ft -g
+ 1581  ./ft
+ 1582  gcc file_test.c -o ft -g
+ 1583  ./ft
+ 1584  gcc file_test.c -o ft -g
+ 1585  ./ft
+ 1586  gcc file_test.c -o ft -g
+ 1587  ./ft
+ 1588  gcc file_test.c -o ft -g
+ 1589  ./ft
+ 1590  gcc file_test.c -o ft -g
+ 1591  ./ft
+ 1592  ./compile.sh
+ 1593  clear
+ 1594  ./server_proj
+ 1595  ./compile.sh
+ 1596  ./server_proj
+ 1597  git add *.c
+ 1598  git commit -m "adding new experience is almost working (eats a char at beggining of exp., must figure out why) - (also, you shouldn't add more than 10 exp.'s because the logic breaks)"
+ 1599  git push origin master
+ 1600  clear
+ 1601  ./compile.sh
+ 1602  clear
+ 1603  ./compile.sh
+ 1604  ./server_proj
+ 1605  ./compile.sh
+ 1606  ./server_proj
+ 1607  ./compile.sh
+ 1608  ./server_proj
+ 1609  gcc file_test.c -o file_test
+ 1610  gcc file_test.c -o ft
+ 1611  ./ft
+ 1612  gcc file_test.c -o ft -g
+ 1613  ./ft
+ 1614  gcc file_test.c -o ft -g
+ 1615  gdb ft
+ 1616  gcc file_test.c -o ft -g
+ 1617  ./ft
+ 1618  ./compile.sh
+ 1619  clear
+ 1620  ./server_proj
+ 1621  ./compile.sh
+ 1622  ./server_proj
+ 1623  ./compile.sh
+ 1624  ./server_proj
+ 1625  clear
+ 1626  ./compile.sh
+ 1627  ./server_proj
+ 1628  clear
+ 1629  ./compile.sh
+ 1630  ./server_proj
+ 1631  clear
+ 1632  ./compile.sh
+ 1633  clear
+ 1634  ./server_proj
+ 1635  cd ~/Desktop/MC833/project_mc833
+ 1636  clear
+ 1637  ./client_proj localhost
+ 1638  clear
+ 1639  ./client_proj 177.220.84.31
+ 1640  head server_proj.c
+ 1641  cat server_proj.c
+ 1642  clear
+ 1643  cd Desktop/MC833/
+ 1644  ls
+ 1645  cd project_mc833/
+ 1646  lls
+ 1647  ls
+ 1648  git add data.txt
+ 1649  git commit -m "I need this file in the repository"
+ 1650  git push origin master
+ 1651  clear
+ 1652  ./server_proj
+ 1653  clear
+ 1654  ./server_proj
+ 1655  ifconfig
+ 1656  clear
+ 1657  ifconfig
+ 1658  ./server_proj
+ 1659  clear
+ 1660  ./server_proj
+ 1661  clear
+ 1662  ./server_proj
+ 1663  ./ft
+ 1664  gcc file_test.c -o ft -g
+ 1665  ./ft
+ 1666  gdb ft
+ 1667  ./compile.sh
+ 1668  ./server_proj
+ 1669  gcc file_test.c -o ft -g
+ 1670  ./server_proj
+ 1671  ./ft
+ 1672  ./server_proj
+ 1673  gcc file_test.c -o ft -g
+ 1674  ./ft
+ 1675  ./compile.sh
+ 1676  ./server_proj
+ 1677  cd test
+ 1678  ls
+ 1679  gedit test.c
+ 1680  gcc test.c -o test
+ 1681  nano test.c
+ 1682  gcc test.c -o test
+ 1683  ./test
+ 1684  gedit test.c
+ 1685  cd test
+ 1686  gedit test.c
+ 1687  gcc test.c -o test
+ 1688  ./test
+ 1689  cd ~/Desktop/MC833/project_mc833
+ 1690  clear
+ 1691  gcc client_photo.c -o cp
+ 1692  ./sp
+ 1693  clear
+ 1694  ./sp
+ 1695  xdg-open proj18331s19.pdf 
+ 1696  mv ../../../Downloads/22221985_1638276512859431_836653156090306226_n.jpg ./matheus.jpg
+ 1697  ls
+ 1698  ./compile.sh
+ 1699  ./server_proj
+ 1700  ./compile.sh
+ 1701  ./server_proj
+ 1702  ./compile.sh
+ 1703  clear
+ 1704  ./compile.sh
+ 1705  ./server_proj
+ 1706  ./compile.sh
+ 1707  ./server_proj
+ 1708  ./compile.sh
+ 1709  ./server_proj
+ 1710  ./compile.sh
+ 1711  ./server_proj
+ 1712  ./compile.sh
+ 1713  ./server_proj
+ 1714  ./compile.sh
+ 1715  ./server_proj
+ 1716  ./compile.sh
+ 1717  ./server_proj
+ 1718  ./compile.sh
+ 1719  ./server_proj
+ 1720  ./compile.sh
+ 1721  ./server_proj
+ 1722  ./compile.sh
+ 1723  ./server_proj
+ 1724  ./compile.sh
+ 1725  ./server_proj
+ 1726  ./compile.sh
+ 1727  ./server_proj
+ 1728  ./compile.sh
+ 1729  ./server_proj
+ 1730  git add *.c
+ 1731  git commit -m "I'm tired"
+ 1732  git push origin master
+ 1733  ifconfig
+ 1734  cd Desktop/MC833/project_mc833/
+ 1735  ls
+ 1736  ./server_prpoj
+ 1737  ./server_proj
+ 1738  ./client_proj
+ 1739  ./client_proj 143.106.16.26
+ 1740  clear
+ 1741  ./client_proj localhost
+ 1742  clear
+ 1743  atom .
+ 1744  git pull origin master
+ 1745  ./client_proj localhost
+ 1746  clear
+ 1747  gcc server_photo.c -o sp
+ 1748  ./cp
+ 1749  ./cp localhost
+ 1750  filestat gabriel.jpg 
+ 1751  stat gabriel.jpg 
+ 1752  chmod +x compile_photo.sh
+ 1753  ./compile_photo.sh 
+ 1754  clear
+ 1755  ./compile_photo.sh 
+ 1756  clear
+ 1757  ./compile_photo.sh 
+ 1758  ./cp
+ 1759  ./cp localhost
+ 1760  ./compile_photo.sh 
+ 1761  ./cp localhost
+ 1762  ls
+ 1763  xdg-open gabriel2.jpg
+ 1764  ./compile_photo.sh 
+ 1765  ./cp localhost
+ 1766  ./compile_photo.sh 
+ 1767  clear
+ 1768  ./compile_photo.sh 
+ 1769  ./cp localhost
+ 1770  ./client_proj
+ 1771  ./client_proj localhost
+ 1772  ls
+ 1773  xdg-open roger.jpg 
+ 1774  mkdir client_dir
+ 1775  cd client_dir
+ 1776  ../client_proj localhost
+ 1777  ls
+ 1778  ls ../
+ 1779  ls
+ 1780  ls .
+ 1781  ../client_proj localhost
+ 1782  ls
+ 1783  ls ../
+ 1784  ../client_proj localhost
+ 1785  ls
+ 1786  ls ../
+ 1787  ../client_proj localhost
+ 1788  ls
+ 1789  ../client_proj localhost
+ 1790  cd ..
+ 1791  ./client_proj localhost
+ 1792  ls
+ 1793  ./client_proj localhost
+ 1794  ls
+ 1795  ./client_proj localhost
+ 1796  cd ../../../
+ 1797  cd save_project_mc833
+ 1798  mkdir save_project_mc833
+ 1799  cd save_project_mc833/
+ 1800  ls
+ 1801  git clone https://github.com/matheusrotta7/project_mc833
+ 1802  cd test
+ 1803  ls
+ 1804  gedit test.c
+ 1805  gcc test.c -o test
+ 1806  ./test
+ 1807  nano test.c
+ 1808  gcc test.c -o test
+ 1809  ./test
+ 1810  cd ~/Desktop/MC833/project_mc833
+ 1811  clear
+ 1812  ./client_proj localhost
+ 1813  ls
+ 1814  xdg-open gabriel.jpg
+ 1815  nautilus . &
+ 1816  ./client_proj localhost
+ 1817  ls
+ 1818  ./client_proj localhost
+ 1819  ls
+ 1820  time 3
+ 1821  wait 3
+ 1822  sleep 4
+ 1823  ./client_proj localhost
+ 1824  ls
+ 1825  ./client_proj localhost
+ 1826  clear
+ 1827  ./client_proj
+ 1828  ./client_proj localhost
+ 1829  clear
+ 1830  ./client_proj localhost
+ 1831  clear
+ 1832  ./cp
+ 1833  ./cp localhost
+ 1834  ls
+ 1835  ./cp localhost
+ 1836  git add *.c 
+ 1837  git commit -m "started making own code to transfer pictures"
+ 1838  git push origin master
+ 1839  cd Desktop/MC833/project_mc833/
+ 1840  clear
+ 1841  ./server_proj
+ 1842  atom .
+ 1843  ./compile.sh
+ 1844  ./server_proj
+ 1845  ./compile.sh
+ 1846  ./server_proj
+ 1847  ./compile.sh
+ 1848  ./server_proj
+ 1849  celar
+ 1850  clear
+ 1851  ./server_proj
+ 1852  clear
+ 1853  ./server_proj
+ 1854  gdb server_proj
+ 1855  ./server_proj
+ 1856  git add *.c
+ 1857  git commit -m "fixed issue that would hamper networking in IC's fedora machines, it was the lack of a \0 on the choice string."
+ 1858  git push origin master
+ 1859  ./compile_photo.sh 
+ 1860  clear
+ 1861  ./sp
+ 1862  ./compile_photo.sh 
+ 1863  ./sp
+ 1864  cd Desktop/MC833/project_mc833/
+ 1865  atom .
+ 1866  clear
+ 1867  ./compile_photo.sh 
+ 1868  ./s
+ 1869  ./sp
+ 1870  ./compile_photo.sh 
+ 1871  ./sp
+ 1872  ./compile_photo.sh 
+ 1873  ./sp
+ 1874  cd ~/Desktop/MC833/project_mc833
+ 1875  clear
+ 1876  ./cp
+ 1877  ./cp localhost
+ 1878  ls
+ 1879  nautilus . &
+ 1880  ./cp localhost
+ 1881  cd ../..
+ 1882  ls
+ 1883  cd MC942
+ 1884  ls
+ 1885  xdg-open SEGC-02.pdf 
+ 1886  xdg-open SEGC-01.pdf 
+ 1887  cd /bin
+ 1888  ls
+ 1889  ls -l password
+ 1890  sl
+ 1891  ls
+ 1892  cd ..
+ 1893  cd
+ 1894  ls
+ 1895  cd /bin
+ 1896  ./passwd
+ 1897  ./pwd
+ 1898  cat pwd
+ 1899  ls -l pwd
+ 1900  ls -l
+ 1901  cd ..
+ 1902  cd etc
+ 1903  ls
+ 1904  gedit passwd
+ 1905  ls passwd-
+ 1906  cd folha/iwar-0.071/
+ 1907  mv ../../Downloads/iaxclient-01-12-2006-beave.tar.gz  .
+ 1908  ls
+ 1909  mv iaxclient-01-12-2006-beave.tar.gz ../
+ 1910  cd ..
+ 1911  ls
+ 1912  tar -zxvf iaxclient-01-12-2006-beave.tar.gz
+ 1913  ls
+ 1914  cd iaxclient-01-12-2006-beave/
+ 1915  ls
+ 1916  cd lib
+ 1917  ls
+ 1918  make
+ 1919  gmake
+ 1920  make
+ 1921  cd ..
+ 1922  ls
+ 1923  rm -rf iaxclient-01-12-2006-beave
+ 1924  ls
+ 1925  rm iaxclient-01-12-2006-beave.tar.gz 
+ 1926  cvs -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/iaxclient login
+ 1927  sudo apt install cvw
+ 1928  sudo apt install cvs
+ 1929  cvs -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/iaxclient login
+ 1930  cvs -z3 -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/iaxclient      co -P iaxclient
+ 1931  cvs -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/iaxclient login
+ 1932  ftp://ftp.vistech.net/pub/iwar/iaxclient/iaxclient-01-12-2006-beave.tar.gz
+ 1933  ftp ftp://ftp.vistech.net/pub/iwar/iaxclient/iaxclient-01-12-2006-beave.tar.gz
+ 1934  mv ../Downloads/iaxclient-01-12-2006-beave.tar.gz . 
+ 1935  ls
+ 1936  tar -xf iaxclient-01-12-2006-beave.tar.gz 
+ 1937  ls
+ 1938  cd iaxclient-01-12-2006-beave/
+ 1939  ls
+ 1940  cd lib
+ 1941  cd ..
+ 1942  ls
+ 1943  gedit README 
+ 1944  make
+ 1945  ls
+ 1946  cd lib
+ 1947  ls
+ 1948  MAKE
+ 1949  make
+ 1950  gedit iax_client_lib.c
+ 1951  gedit iaxclient_lib.c
+ 1952  make
+ 1953  cd libiax2/src/iax.c
+ 1954  ls
+ 1955  gedit libiax2/src/iax.c
+ 1956  LS
+ 1957  ls
+ 1958  gedit iaxclient.h
+ 1959  make
+ 1960  LS
+ 1961  gedit
+ 1962  sudo cp libiaxclient.a /usr/lib
+ 1963  sudo  cp iaxclient.h /usr/include
+ 1964  sudo ldconfig
+ 1965  cd ../..
+ 1966  ls
+ 1967  cd iwar-0.071/
+ 1968  ls
+ 1969  ./configure --disable-mysql 
+ 1970  gedit README
+ 1971  gedit INSTALL 
+ 1972  make
+ 1973  make -ld
+ 1974  cd folha
+ 1975  ls
+ 1976  cd iwar-0.071/
+ 1977  ls
+ 1978  cat README.IAX2 
+ 1979  gedit README.IAX2 
+ 1980  cd Desktop/MC942/
+ 1981  xdg-open SEGC-02.pdf 
+ 1982  netstat
+ 1983  netcat
+ 1984  ifconfig
+ 1985  netcat -x localhost
+ 1986  top
+ 1987  who
+ 1988  ssh ra184403@ssh.ic.students.unicamp.br
+ 1989  ssh ra184403@ssh.ic.unicamp.br
+ 1990  ssh ra184403@ssh2.ic.unicamp.br
+ 1991  ssh ra184403@ssh.ic.unicamp.br
+ 1992  df
+ 1993  df -h
+ 1994  df -i
+ 1995  ls
+ 1996  ls > ls.txt
+ 1997  ls
+ 1998  cat ls.txt
+ 1999  uva
+ 2000  cd mc521/
+ 2001  ls
+ 2002  atom fibo.cpp
+ 2003  g++ fibonacci.cpp -o fibo
+ 2004  ./fibo < teste.in
+ 2005  g++ fibonacci.cpp -o fibo
+ 2006  ./fibo < teste.in
+ 2007  g++ fibonacci.cpp -o fibo
+ 2008  ./fibo < teste.in
+ 2009  g++ fibonacci.cpp -o fibo
+ 2010  ./fibo < teste.in
+ 2011  g++ diverse.cpp -o div
+ 2012  ./div < teste.in
+ 2013  g++ diverse.cpp -o div
+ 2014  ./div < teste.in
+ 2015  g++ diverse.cpp -o div
+ 2016  ./div < teste.in
+ 2017  g++ diverse.cpp -o div
+ 2018  ./div < teste.in
+ 2019  g++ diverse.cpp -o div -g
+ 2020  gdb div
+ 2021  g++ diverse.cpp -o div -g
+ 2022  ./div < teste.in
+ 2023  g++ diverse.cpp -o div -g
+ 2024  g++ fibonacci.cpp -o fibo
+ 2025  ./fibo < teste.in
+ 2026  g++ fibonacci.cpp -o fibo
+ 2027  ./fibo < teste.in
+ 2028  g++ fibonacci.cpp -o fibo
+ 2029  ./fibo < teste.in
+ 2030  g++ diverse.cpp -o div -g
+ 2031  ./div < teste.in
+ 2032  g++ diverse.cpp -o div -g
+ 2033  ./div < teste.in
+ 2034  g++ diverse.cpp -o div -g
+ 2035  ./div < teste.in
+ 2036  g++ diverse.cpp -o div -g
+ 2037  ./div < teste.in
+ 2038  g++ diverse.cpp -o div -g
+ 2039  ./div < teste.in
+ 2040  g++ diverse.cpp -o div -g
+ 2041  ./div < teste.in
+ 2042  g++ diverse.cpp -o div -g
+ 2043  ./div < teste.in
+ 2044  gdb div
+ 2045  ./div < teste.in
+ 2046  gdb div
+ 2047  g++ diverse.cpp -o div -g
+ 2048  ./div < teste.in
+ 2049  g++ diverse.cpp -o div -g
+ 2050  ./div < teste.in
+ 2051  gdb div
+ 2052  g++ diverse.cpp -o div -g
+ 2053  ./div < teste.in
+ 2054  cd ..
+ 2055  ls
+ 2056  cd problem_solving_paradigms/
+ 2057  ls
+ 2058  history
+ 2059  history > history.txt
